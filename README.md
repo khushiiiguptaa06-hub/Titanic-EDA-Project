@@ -30,5 +30,5 @@ To analyze survival patterns in the Titanic dataset and identify key factors aff
 - Age Distribution  
 - Correlation Heatmap  
 
-## 🚀 Conclusion
+## Conclusion
 Gender and socio-economic status significantly influenced survival outcomes.
